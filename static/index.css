@@ -1,0 +1,16 @@
+@charset "utf-8";
+html{
+	height: 99%;
+}
+body{
+	min-height: 400px;
+	height: 100%;
+	color: #333;
+	background:transparent url(logo_squids.gif) 50% 50% no-repeat;
+}
+
+address{
+	position: absolute;
+	bottom: 20px;
+	right:20px;
+}

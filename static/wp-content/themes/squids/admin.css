@@ -1,0 +1,9 @@
+#postexcerpt{
+}
+#postexcerpt .inside{
+}
+#postexcerpt .inside #excerpt{
+	width: 200px;
+	padding: 2px;
+	height: 104px;
+}
